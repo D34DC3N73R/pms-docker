@@ -6,7 +6,7 @@ Inspired by Plex DVR. This container has [Comskip](https://github.com/erikkaasho
 
 ### How to use:
 - [Pull pms-docker from docker](https://hub.docker.com/r/mandreko/pms-docker/) by running, `docker pull mandreko/pms-docker`
-- Run the container as described by [plexinc/pms-docker](https://github.com/plexinc/pms-docker)
+- Run the container as described by [plexinc/pms-docker](https://github.com/plexinc/pms-docker), but change plexinc/pms-docker for mandreko/pms-docker
 - Once running, go to Plex Settings, then DVR (Beta)
 - DVR Settings
 - Scroll to `POSTPROCESSING SCRIPT`

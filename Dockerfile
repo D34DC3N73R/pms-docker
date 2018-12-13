@@ -1,4 +1,4 @@
-FROM plexinc/pms-docker:plexpass
+FROM binhex/arch-emby
 
 RUN apt-get update && \
     apt-get upgrade -y && \
